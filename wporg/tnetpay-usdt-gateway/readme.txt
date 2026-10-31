@@ -1,6 +1,6 @@
-=== TNetPay – USDT (BEP20) Payment Gateway for WooCommerce ===
+=== TNetPay (تی‌نت‌پی) – USDT BEP20 Payment Gateway for WooCommerce | درگاه تتر ===
 Contributors: tnetmadadi
-Tags: usdt, tether, bep20, crypto payments, payment gateway
+Tags: usdt, tether, crypto payments, payment gateway, درگاه پرداخت
 Requires at least: 6.5
 Tested up to: 7.1
 Requires PHP: 7.4
@@ -8,7 +8,7 @@ Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Accept USDT (Tether) on the BEP20 network in your WooCommerce store through the TNetPay payment gateway.
+Accept USDT (Tether, BEP20) in WooCommerce. تی نت پی: درگاه تتر و درگاه پرداخت ارز دیجیتال برای ووکامرس.
 
 == Description ==
 
@@ -145,6 +145,10 @@ More reliable failover between TNetPay API endpoints, HTTPS-only enforcement and
 First WordPress.org release. If you use the version downloaded from tnetpay.com, deactivate and delete it first; your settings are kept.
 
 == توضیحات فارسی ==
+
+= تی نت پی (تی‌نت‌پی، TNet Pay) چیست؟ =
+
+تی نت پی یک درگاه ارز دیجیتال برای فروشگاه‌های ووکامرسی است. با این افزونه، مشتریان شما می‌توانند با تتر پرداخت کنند؛ یعنی یک درگاه تتر و درگاه پرداخت ارز دیجیتال که فقط USDT روی شبکهٔ BEP20 را می‌پذیرد. اگر دنبال «درگاه کریپتو ووکامرس»، «پرداخت با USDT» یا «درگاه پرداخت رمزارزی» برای سایت وردپرسی خود هستید، این افزونهٔ رسمی تی‌نت‌پی است.
 
 افزونهٔ رسمی تی‌نت‌پی برای ووکامرس، پرداخت با تتر (USDT روی شبکهٔ BEP20) را به صفحهٔ تسویه‌حساب فروشگاه وردپرسی شما اضافه می‌کند. برای هر سفارش یک فاکتور ساخته می‌شود که مبلغ، شبکهٔ BEP20 و آدرس پرداخت را نشان می‌دهد و پس از تأیید پرداخت، وضعیت سفارش از طریق وب‌هوک خودکار به‌روز می‌شود.
 
